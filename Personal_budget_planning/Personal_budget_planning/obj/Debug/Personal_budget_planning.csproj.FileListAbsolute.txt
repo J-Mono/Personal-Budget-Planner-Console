@@ -1,0 +1,36 @@
+E:\C DRIVE FILES\Visual Studio projects\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csprojAssemblyReference.cache
+E:\C DRIVE FILES\Visual Studio projects\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csproj.CoreCompileInputs.cache
+E:\C DRIVE FILES\Visual Studio projects\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe.config
+E:\C DRIVE FILES\Visual Studio projects\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe
+E:\C DRIVE FILES\Visual Studio projects\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.pdb
+E:\C DRIVE FILES\Visual Studio projects\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.exe
+E:\C DRIVE FILES\Visual Studio projects\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.pdb
+D:\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe.config
+D:\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe
+D:\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.pdb
+D:\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csprojAssemblyReference.cache
+D:\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csproj.CoreCompileInputs.cache
+D:\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.exe
+D:\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.pdb
+C:\Users\private cc\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe.config
+C:\Users\private cc\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe
+C:\Users\private cc\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.pdb
+C:\Users\private cc\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csprojAssemblyReference.cache
+C:\Users\private cc\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csproj.CoreCompileInputs.cache
+C:\Users\private cc\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.exe
+C:\Users\private cc\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.pdb
+C:\Users\Lawrence\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe.config
+C:\Users\Lawrence\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe
+C:\Users\Lawrence\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.pdb
+C:\Users\Lawrence\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csprojAssemblyReference.cache
+C:\Users\Lawrence\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csproj.CoreCompileInputs.cache
+C:\Users\Lawrence\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.exe
+C:\Users\Lawrence\Documents\IIE Varsity college\BCAD2\BCAD2 PROG 6221 TASKS\Assessment response\PROG6221 Task 1 Joseph Ntsekalle 20104412\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.pdb
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe.config
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.exe
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\bin\Debug\Personal_budget_planning.pdb
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csproj.AssemblyReference.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.csproj.CoreCompileInputs.cache
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.exe
+C:\Users\lawre\Documents\Kingston\IIE VARSITY COLLEGE\BCAD2\First Semester\PROG6221 POE Joseph Ntsekalle 20104412\Task 1 Revision\Personal_budget_planning\Personal_budget_planning\obj\Debug\Personal_budget_planning.pdb
